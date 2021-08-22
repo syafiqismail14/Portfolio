@@ -6,7 +6,7 @@
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
-![alt text](Screenshot (838). png)
+![alt text](Screenshot(838).png)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
